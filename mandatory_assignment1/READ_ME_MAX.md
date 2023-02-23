@@ -1,0 +1,2 @@
+- [link to description of columns in the data set](https://www.icpsr.umich.edu/web/ICPSR/studies/29263/datasets/0050/variables/COW?archive=ICPSR)
+- for the groups: 1 is male, 2 is female
